@@ -21,7 +21,7 @@ In this project, we'll learn:
 - cd ecommerce
 - npm install --legacy-peer-deps => 
 - npm run dev
-- localhost: 300
+- localhost: 3000
 - now ready to configure sanity for easier manage data .
 - sanity.io/javascriptmastery2022
     - npm install -g @sanity/cli
