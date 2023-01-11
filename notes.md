@@ -2,6 +2,7 @@
 # Node MongoDB eCommerce Rest API using Stripe payment method. Node.js shopping API using express, MongoDB
 # credits - JavaScript Mastery
 ===========================================================
+# Intro:
 - build and deploy a fully responsive modern full stack e-commerce application
 ***
 In this project, we'll learn:
@@ -13,4 +14,5 @@ In this project, we'll learn:
 - You’ll learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
 - And most importantly you’ll learn how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
 - Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
-- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
+- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily. In the end, we'll also deploy the app to share with friends or put on portfolio for job search, use it as a real e-commerce and sell your products, or build e-commerce store for clients to make $.
+===========================================================
